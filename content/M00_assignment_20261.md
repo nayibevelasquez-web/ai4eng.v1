@@ -7,7 +7,7 @@ El objetivo de este ejercicio es que te familiarices con una metodología riguro
 ```{dropdown} **Video sesión de explicación del ejercicio** <span class="right"><font color="red">Video 1h32mins</font></span> <br/>Explicación y desarrollo del ejercicio con LLMs
 <center>
 <iframe width="560" height="315"
-src="https://youtu.be/AwC-qqeGg94" 
+src="https://www.youtube.com/watch?v=AwC-qqeGg94"  
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
