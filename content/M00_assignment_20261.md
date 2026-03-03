@@ -3,6 +3,17 @@
 
 El objetivo de este ejercicio es que te familiarices con una metodología rigurosa para usar servicios como [Gemini](gemini.google.com), [ChatGPT](https://chat.chatbot.app/), [Claude](https://claude.ai/chat) o cualquier otro LLM para desarrollar, validar y comprobar código.
 
+
+```{dropdown} **Video sesión de explicación del ejercicio** <span class="right"><font color="red">Video 1h32mins</font></span> <br/>Explicación y desarrollo del ejercicio con LLMs
+<center>
+<iframe width="560" height="315"
+src="[https://www.youtube.com/embed/y3mRk4C9tpM](https://youtu.be/AwC-qqeGg94))" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+</center>
+```
+
 ## Tu tarea
 
 Se dividirá en dos fases:
